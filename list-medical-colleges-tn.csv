@@ -7,12 +7,12 @@ SL.NO,College Name,Location,District,Estd.,Type
 6,Government Kilpauk Medical College,"Chetpet, Chennai",Chennai,1960,Medical
 7,Chengalpattu Medical College,Chengalpattu,Kanchipuram,1965,Medical
 8,Kanyakumari Government Medical College,Kanyakumari,Kanyakumari,1965,Medical
-9,Government Siddha Medical College Chennai,"Anna Hospital Campus, Arumbakkam, Chennai",Chennai district,1965,Siddha
+9,Government Siddha Medical College Chennai,"Anna Hospital Campus, Arumbakkam, Chennai",Chennai,1965,Siddha
 10,Coimbatore Medical College,Coimbatore,Coimbatore,1966,Medical
 11,Tirunelveli Medical College,Tirunelveli,Tirunelveli,1966,Medical
-12,Government Siddha Medical College,Palayamkottai,Tirunelveli district,1985,Siddha
-13,Government Homeopathy Medical College,Thirumangalam,Madurai district,1985,Homoeopathy
-14,Government Unani Medical College,"AAGHIM Campus, Chennai",Chennai district,1985,Unani
+12,Government Siddha Medical College,Palayamkottai,Tirunelveli,1985,Siddha
+13,Government Homeopathy Medical College,Thirumangalam,Madurai,1985,Homoeopathy
+14,Government Unani Medical College,"AAGHIM Campus, Chennai",Chennai,1985,Unani
 15,Government Yoga & Naturopathy Medical College,"AAGHIM campus, Arumbakkam, Chennai",Chennai,1985,Yoga and Naturopathy
 16,Mohan Kumaramangalam Medical College,Salem,Salem,1986,Medical
 17,IRT Perundurai Medical College,Perundurai,Erode,1986,Medical
@@ -22,7 +22,7 @@ SL.NO,College Name,Location,District,Estd.,Type
 21,Government Vellore Medical College,Adukamparai,Vellore,2005,Medical
 22,Government Thiruvarur Medical College,Thiruvarur,Thiruvarur,2007,Medical
 23,Government Dharmapuri Medical College,Dharmapuri,Dharmapuri,2008,Medical
-24,Government Ayurveda Medical College And Hospital,"Kottar, Nagercoil",Kanyakumari District,2009,Ayurveda
+24,Government Ayurveda Medical College And Hospital,"Kottar, Nagercoil",Kanyakumari,2009,Ayurveda
 25,Government Villupuram Medical College,Villupuram,Villupuram,2011,Medical
 26,Government Sivagangai Medical College and Hospital,Sivaganga,Sivaganga,2012,Medical
 27,Government Tiruvannamalai Medical College and Hospital,Tiruvannamalai,Tiruvannamalai,2013,Medical
